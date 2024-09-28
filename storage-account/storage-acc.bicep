@@ -1,4 +1,4 @@
-param storAccName string = 'storacc170824'
+param storAccName string = 'storacc280924'
 param location string = 'UK South'
 param storSku string = 'Standard_LRS'
 param storType string = 'StorageV2'
