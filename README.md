@@ -1,0 +1,1 @@
+[![Board Status](https://dev.azure.com/satonadev/7dd04160-2d5c-4778-a6bf-d60158d01aa2/5e80d3bb-68d5-463d-85a4-23983a6cb7a7/_apis/work/boardbadge/57a7d7e4-97ff-480b-8d21-1456c11a0066)](https://dev.azure.com/satonadev/7dd04160-2d5c-4778-a6bf-d60158d01aa2/_boards/board/t/5e80d3bb-68d5-463d-85a4-23983a6cb7a7/Stories/)
